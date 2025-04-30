@@ -9,3 +9,4 @@
 
 ## general
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [dev-resources](https://github.com/marcelscruz/dev-resources)

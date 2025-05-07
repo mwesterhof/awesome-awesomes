@@ -12,4 +12,5 @@
 
 ## general
 * [Awesome Python](https://github.com/vinta/awesome-python)
-* [dev-resources](https://github.com/marcelscruz/dev-resources)
+* [Dev Resources](https://github.com/marcelscruz/dev-resources)
+* [Free Science Books](https://github.com/EbookFoundation/free-science-books)

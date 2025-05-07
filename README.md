@@ -2,13 +2,14 @@
 
 ## frontend
 * [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)
+* [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
 
 ## backend
-* [awesome-django](https://github.com/wsvincent/awesome-django)
-* [awesome-wagtail](https://github.com/springload/awesome-wagtail)
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Wagtail](https://github.com/springload/awesome-wagtail)
 
 ## infra
 
 ## general
-* [awesome-python](https://github.com/vinta/awesome-python)
+* [Awesome Python](https://github.com/vinta/awesome-python)
 * [dev-resources](https://github.com/marcelscruz/dev-resources)

@@ -8,6 +8,7 @@
 ## backend
 * [Awesome Django](https://github.com/wsvincent/awesome-django)
 * [Awesome Wagtail](https://github.com/springload/awesome-wagtail)
+* [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony)
 
 ## infra
 

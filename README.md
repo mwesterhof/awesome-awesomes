@@ -17,3 +17,4 @@
 * [Dev Resources](https://github.com/marcelscruz/dev-resources)
 * [Free Science Books](https://github.com/EbookFoundation/free-science-books)
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
+* [awesome](https://github.com/sindresorhus/awesome)

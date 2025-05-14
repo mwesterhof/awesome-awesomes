@@ -11,6 +11,7 @@
 * [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony)
 
 ## infra
+* [Awesome Compose](https://github.com/docker/awesome-compose)
 
 ## general
 * [Awesome Python](https://github.com/vinta/awesome-python)

@@ -17,5 +17,6 @@
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Dev Resources](https://github.com/marcelscruz/dev-resources)
 * [Free Science Books](https://github.com/EbookFoundation/free-science-books)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [awesome](https://github.com/sindresorhus/awesome)

@@ -20,3 +20,6 @@
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [awesome](https://github.com/sindresorhus/awesome)
+* [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)

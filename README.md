@@ -15,6 +15,7 @@
 
 ## general
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome Node](https://github.com/sindresorhus/awesome-nodejs)
 * [Dev Resources](https://github.com/marcelscruz/dev-resources)
 * [Free Science Books](https://github.com/EbookFoundation/free-science-books)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)

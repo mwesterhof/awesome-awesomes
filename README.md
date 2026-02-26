@@ -24,3 +24,4 @@
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
+* [Awesome nu(shell](https://github.com/nushell/awesome-nu)

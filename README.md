@@ -26,3 +26,4 @@
 * [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
 * [Awesome nu(shell)](https://github.com/nushell/awesome-nu)
 * [Awesome TUI](https://github.com/rothgar/awesome-tuis)
+* [Awesome note taking](https://github.com/tehtbl/awesome-note-taking)
